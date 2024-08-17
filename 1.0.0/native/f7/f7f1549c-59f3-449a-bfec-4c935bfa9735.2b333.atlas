@@ -1,0 +1,195 @@
+
+clawmachine_scatter.png
+size: 480,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bubble01
+  rotate: false
+  xy: 391, 43
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+fx_bubble02
+  rotate: false
+  xy: 197, 59
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+fx_bubble03
+  rotate: true
+  xy: 341, 186
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+fx_bubble04
+  rotate: false
+  xy: 341, 280
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+fx_bubble05
+  rotate: false
+  xy: 285, 110
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+letter_z
+  rotate: true
+  xy: 155, 2
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+scatclaw_claw_l
+  rotate: true
+  xy: 234, 2
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+scatclaw_claw_r
+  rotate: false
+  xy: 327, 5
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+scatclaw_clawbase_l
+  rotate: true
+  xy: 2, 5
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+scatclaw_clawbase_r
+  rotate: true
+  xy: 285, 50
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+scatclaw_clawbotfinger2_l
+  rotate: false
+  xy: 441, 187
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+scatclaw_clawbotfinger2_r
+  rotate: true
+  xy: 398, 12
+  size: 13, 43
+  orig: 13, 43
+  offset: 0, 0
+  index: -1
+scatclaw_clawbotfingerback_l
+  rotate: false
+  xy: 458, 188
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+scatclaw_clawbotfingerback_r
+  rotate: false
+  xy: 462, 234
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+scatclaw_clawbotfingerfront_l
+  rotate: false
+  xy: 438, 141
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+scatclaw_clawbotfingerfront_r
+  rotate: true
+  xy: 398, 27
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+scatclaw_clawtopfinger2_l
+  rotate: false
+  xy: 452, 142
+  size: 13, 43
+  orig: 13, 43
+  offset: 0, 0
+  index: -1
+scatclaw_clawtopfinger2_r
+  rotate: false
+  xy: 383, 2
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+scatclaw_clawtopfinger_l
+  rotate: false
+  xy: 441, 233
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+scatclaw_clawtopfinger_r
+  rotate: true
+  xy: 437, 280
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+scatclaw_eye
+  rotate: false
+  xy: 108, 2
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+scatclaw_happyeye
+  rotate: false
+  xy: 380, 124
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+scatclaw_head
+  rotate: false
+  xy: 2, 153
+  size: 250, 226
+  orig: 250, 226
+  offset: 0, 0
+  index: -1
+scatclaw_pole
+  rotate: false
+  xy: 277, 2
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+scatclaw_polebase
+  rotate: true
+  xy: 437, 302
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+scatclaw_wire_l
+  rotate: false
+  xy: 254, 186
+  size: 85, 193
+  orig: 85, 193
+  offset: 0, 0
+  index: -1
+scatclaw_wire_r
+  rotate: true
+  xy: 2, 65
+  size: 86, 193
+  orig: 86, 193
+  offset: 0, 0
+  index: -1

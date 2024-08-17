@@ -1,0 +1,125 @@
+
+softoy_pig.png
+size: 899,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_botclaw_l
+  rotate: false
+  xy: 586, 50
+  size: 49, 121
+  orig: 50, 122
+  offset: 1, 1
+  index: -1
+claw_botclaw_r
+  rotate: true
+  xy: 534, 2
+  size: 45, 122
+  orig: 47, 124
+  offset: 0, 1
+  index: -1
+pig_body
+  rotate: true
+  xy: 2, 10
+  size: 161, 281
+  orig: 164, 281
+  offset: 0, 0
+  index: -1
+pig_brow
+  rotate: true
+  xy: 827, 16
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+pig_ear_l
+  rotate: false
+  xy: 383, 40
+  size: 93, 131
+  orig: 93, 131
+  offset: 0, 0
+  index: -1
+pig_ear_r
+  rotate: false
+  xy: 285, 37
+  size: 96, 134
+  orig: 98, 134
+  offset: 2, 0
+  index: -1
+pig_eye
+  rotate: false
+  xy: 477, 9
+  size: 55, 29
+  orig: 57, 32
+  offset: 1, 2
+  index: -1
+pig_hair
+  rotate: true
+  xy: 478, 49
+  size: 122, 106
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+pig_hairshadow
+  rotate: false
+  xy: 285, 3
+  size: 124, 32
+  orig: 124, 34
+  offset: 0, 0
+  index: -1
+pig_hand
+  rotate: true
+  xy: 731, 8
+  size: 63, 94
+  orig: 66, 95
+  offset: 1, 1
+  index: -1
+pig_leg
+  rotate: true
+  xy: 637, 57
+  size: 114, 62
+  orig: 114, 62
+  offset: 0, 0
+  index: -1
+pig_mouth
+  rotate: true
+  xy: 827, 41
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+pig_pikaeye
+  rotate: false
+  xy: 815, 88
+  size: 82, 83
+  orig: 83, 83
+  offset: 1, 0
+  index: -1
+pig_snout
+  rotate: false
+  xy: 740, 76
+  size: 73, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+pig_tail
+  rotate: true
+  xy: 701, 73
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+pig_tailend
+  rotate: true
+  xy: 658, 4
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+pig_tusk
+  rotate: false
+  xy: 411, 6
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1

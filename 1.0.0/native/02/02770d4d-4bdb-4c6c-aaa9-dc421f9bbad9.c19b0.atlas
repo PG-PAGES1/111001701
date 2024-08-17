@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 153,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_flare_01
+  rotate: false
+  xy: 2, 2
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1

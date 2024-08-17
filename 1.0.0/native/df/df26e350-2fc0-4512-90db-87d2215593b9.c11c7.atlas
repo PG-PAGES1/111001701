@@ -1,0 +1,20 @@
+
+freegamebtn.jpg
+size: 408,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_mouse_hover_02
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+fx_payselect_02
+  rotate: false
+  xy: 254, 99
+  size: 152, 153
+  orig: 152, 153
+  offset: 0, 0
+  index: -1

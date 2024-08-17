@@ -1,0 +1,167 @@
+
+bg_efect.png
+size: 931,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackGround_Figure/character_walk_00
+  rotate: true
+  xy: 832, 213
+  size: 59, 94
+  orig: 73, 99
+  offset: 14, 0
+  index: -1
+BackGround_Figure/character_walk_01
+  rotate: true
+  xy: 832, 213
+  size: 59, 94
+  orig: 73, 99
+  offset: 14, 0
+  index: -1
+BackGround_Figure/character_walk_02
+  rotate: true
+  xy: 832, 213
+  size: 59, 94
+  orig: 73, 99
+  offset: 14, 0
+  index: -1
+BackGround_Figure/character_walk_03
+  rotate: true
+  xy: 832, 213
+  size: 59, 94
+  orig: 73, 99
+  offset: 14, 0
+  index: -1
+BackGround_Figure/character_walk_07
+  rotate: true
+  xy: 832, 213
+  size: 59, 94
+  orig: 73, 99
+  offset: 14, 0
+  index: -1
+BackGround_Figure/character_walk_08
+  rotate: true
+  xy: 832, 213
+  size: 59, 94
+  orig: 73, 99
+  offset: 14, 0
+  index: -1
+BackGround_Figure/character_walk_09
+  rotate: true
+  xy: 832, 213
+  size: 59, 94
+  orig: 73, 99
+  offset: 14, 0
+  index: -1
+BackGround_Figure/character_walk_04
+  rotate: true
+  xy: 832, 45
+  size: 40, 97
+  orig: 73, 101
+  offset: 23, 0
+  index: -1
+BackGround_Figure/character_walk_05
+  rotate: true
+  xy: 832, 45
+  size: 40, 97
+  orig: 73, 101
+  offset: 23, 0
+  index: -1
+BackGround_Figure/character_walk_06
+  rotate: true
+  xy: 832, 45
+  size: 40, 97
+  orig: 73, 101
+  offset: 23, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_01
+  rotate: true
+  xy: 832, 87
+  size: 58, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_02
+  rotate: true
+  xy: 832, 87
+  size: 58, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_03
+  rotate: true
+  xy: 832, 87
+  size: 58, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_04
+  rotate: true
+  xy: 832, 87
+  size: 58, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_05
+  rotate: true
+  xy: 832, 147
+  size: 64, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_06
+  rotate: true
+  xy: 832, 147
+  size: 64, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_07
+  rotate: true
+  xy: 832, 147
+  size: 64, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_08
+  rotate: true
+  xy: 832, 147
+  size: 64, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_09
+  rotate: true
+  xy: 832, 147
+  size: 64, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_10
+  rotate: true
+  xy: 832, 147
+  size: 64, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+BackGround_Figure2/sitting_character_02_11
+  rotate: true
+  xy: 832, 147
+  size: 64, 70
+  orig: 71, 78
+  offset: 7, 0
+  index: -1
+Light_Effect6
+  rotate: false
+  xy: 2, 7
+  size: 450, 265
+  orig: 450, 265
+  offset: 0, 0
+  index: -1
+Out_BackGround
+  rotate: true
+  xy: 454, 2
+  size: 270, 376
+  orig: 270, 376
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+clawmachine.png
+size: 454,457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_botclaw_l
+  rotate: false
+  xy: 269, 307
+  size: 61, 148
+  orig: 61, 148
+  offset: 0, 0
+  index: -1
+claw_botclaw_r
+  rotate: false
+  xy: 332, 304
+  size: 56, 151
+  orig: 56, 151
+  offset: 0, 0
+  index: -1
+claw_botwire
+  rotate: false
+  xy: 326, 220
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+claw_eye
+  rotate: false
+  xy: 193, 15
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+claw_eye_struggle
+  rotate: true
+  xy: 401, 261
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+claw_flateye
+  rotate: false
+  xy: 98, 78
+  size: 136, 5
+  orig: 136, 5
+  offset: 0, 0
+  index: -1
+claw_happyeye
+  rotate: false
+  xy: 402, 81
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+claw_head
+  rotate: false
+  xy: 2, 242
+  size: 265, 213
+  orig: 265, 213
+  offset: 0, 0
+  index: -1
+claw_midwire
+  rotate: true
+  xy: 116, 182
+  size: 58, 150
+  orig: 58, 150
+  offset: 0, 0
+  index: -1
+claw_pole
+  rotate: false
+  xy: 402, 23
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+claw_polebase
+  rotate: false
+  xy: 2, 139
+  size: 112, 101
+  orig: 112, 101
+  offset: 0, 0
+  index: -1
+claw_topclaw_l
+  rotate: true
+  xy: 116, 133
+  size: 47, 152
+  orig: 47, 152
+  offset: 0, 0
+  index: -1
+claw_topclaw_r
+  rotate: true
+  xy: 98, 85
+  size: 46, 151
+  orig: 46, 151
+  offset: 0, 0
+  index: -1
+claw_topwire
+  rotate: false
+  xy: 390, 323
+  size: 62, 132
+  orig: 62, 132
+  offset: 0, 0
+  index: -1
+fx_bubble01
+  rotate: false
+  xy: 370, 139
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+fx_bubble02
+  rotate: true
+  xy: 251, 38
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+fx_bubble03
+  rotate: true
+  xy: 270, 126
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+fx_bubble04
+  rotate: false
+  xy: 2, 38
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+fx_bubble05
+  rotate: false
+  xy: 98, 2
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+letter_z
+  rotate: false
+  xy: 269, 228
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+swt
+  rotate: false
+  xy: 345, 47
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1

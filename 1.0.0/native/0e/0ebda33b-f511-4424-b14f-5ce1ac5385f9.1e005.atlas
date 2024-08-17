@@ -1,0 +1,48 @@
+
+light.jpg
+size: 1070,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_fast_01
+  rotate: false
+  xy: 978, 4
+  size: 58, 58
+  orig: 250, 174
+  offset: 84, 57
+  index: -1
+fx_fast_02
+  rotate: true
+  xy: 978, 64
+  size: 112, 90
+  orig: 250, 174
+  offset: 57, 44
+  index: -1
+fx_fast_03
+  rotate: false
+  xy: 754, 16
+  size: 222, 160
+  orig: 250, 174
+  offset: 14, 14
+  index: -1
+fx_fast_04
+  rotate: false
+  xy: 254, 4
+  size: 250, 172
+  orig: 250, 174
+  offset: 0, 2
+  index: -1
+fx_fast_05
+  rotate: false
+  xy: 2, 2
+  size: 250, 174
+  orig: 250, 174
+  offset: 0, 0
+  index: -1
+fx_fast_06
+  rotate: false
+  xy: 506, 28
+  size: 246, 148
+  orig: 250, 174
+  offset: 4, 2
+  index: -1

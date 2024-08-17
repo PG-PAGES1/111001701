@@ -1,0 +1,188 @@
+
+freeGame_start.png
+size: 1970,1614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_b
+  rotate: false
+  xy: 2, 442
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_01
+  rotate: false
+  xy: 1702, 2
+  size: 210, 314
+  orig: 210, 314
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_02
+  rotate: false
+  xy: 588, 4
+  size: 216, 450
+  orig: 216, 450
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_03
+  rotate: false
+  xy: 544, 1144
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_04
+  rotate: false
+  xy: 370, 18
+  size: 216, 422
+  orig: 216, 422
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_05
+  rotate: true
+  xy: 1634, 960
+  size: 216, 334
+  orig: 216, 334
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_06
+  rotate: false
+  xy: 806, 4
+  size: 216, 450
+  orig: 216, 450
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_07
+  rotate: true
+  xy: 1634, 742
+  size: 216, 290
+  orig: 216, 290
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_08
+  rotate: true
+  xy: 1702, 318
+  size: 170, 212
+  orig: 170, 212
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_09
+  rotate: false
+  xy: 544, 674
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_10
+  rotate: true
+  xy: 544, 456
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_11
+  rotate: false
+  xy: 762, 1144
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_12
+  rotate: false
+  xy: 762, 674
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_13
+  rotate: false
+  xy: 980, 1144
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_14
+  rotate: false
+  xy: 980, 674
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_15
+  rotate: true
+  xy: 1014, 456
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_16
+  rotate: true
+  xy: 1484, 1396
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_17
+  rotate: true
+  xy: 1484, 1178
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_18
+  rotate: false
+  xy: 1198, 708
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_19
+  rotate: false
+  xy: 1416, 708
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_20
+  rotate: true
+  xy: 1484, 490
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_21
+  rotate: false
+  xy: 1484, 20
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_22
+  rotate: false
+  xy: 1242, 96
+  size: 216, 358
+  orig: 216, 358
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_23
+  rotate: false
+  xy: 1024, 62
+  size: 216, 392
+  orig: 216, 392
+  offset: 0, 0
+  index: -1
+fx_energy/fx_full_screen_energy_24
+  rotate: false
+  xy: 1198, 1200
+  size: 216, 412
+  orig: 216, 412
+  offset: 0, 0
+  index: -1
+fx_shine
+  rotate: true
+  xy: 2, 11
+  size: 429, 366
+  orig: 429, 366
+  offset: 0, 0
+  index: -1

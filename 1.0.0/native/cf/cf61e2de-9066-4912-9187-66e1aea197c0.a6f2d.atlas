@@ -1,0 +1,27 @@
+
+win_efect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buttons3/fx_payline
+  rotate: false
+  xy: 2, 183
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+Buttons3/fx_payselect_01
+  rotate: false
+  xy: 2, 2
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+Light_Effect5/fx_payselect_02
+  rotate: false
+  xy: 183, 28
+  size: 152, 153
+  orig: 152, 153
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+softoy_tiger.png
+size: 188,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_botclaw_l
+  rotate: true
+  xy: 2, 225
+  size: 49, 121
+  orig: 50, 122
+  offset: 1, 1
+  index: -1
+claw_botclaw_r
+  rotate: true
+  xy: 2, 276
+  size: 45, 122
+  orig: 47, 124
+  offset: 0, 1
+  index: -1
+tiger_body
+  rotate: false
+  xy: 2, 323
+  size: 183, 283
+  orig: 184, 283
+  offset: 0, 0
+  index: -1
+tiger_ear
+  rotate: false
+  xy: 2, 14
+  size: 90, 59
+  orig: 92, 61
+  offset: 0, 2
+  index: -1
+tiger_eye
+  rotate: true
+  xy: 94, 2
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+tiger_hair
+  rotate: false
+  xy: 109, 51
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+tiger_hand_l
+  rotate: false
+  xy: 126, 227
+  size: 60, 94
+  orig: 62, 95
+  offset: 1, 1
+  index: -1
+tiger_hand_r
+  rotate: false
+  xy: 125, 131
+  size: 60, 94
+  orig: 61, 96
+  offset: 0, 2
+  index: -1
+tiger_leg
+  rotate: false
+  xy: 2, 157
+  size: 109, 66
+  orig: 109, 66
+  offset: 0, 0
+  index: -1
+tiger_mouth
+  rotate: false
+  xy: 144, 5
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+tiger_nose
+  rotate: true
+  xy: 144, 33
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+tiger_smileeye
+  rotate: false
+  xy: 109, 104
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+tiger_tail
+  rotate: true
+  xy: 2, 75
+  size: 80, 105
+  orig: 82, 108
+  offset: 0, 3
+  index: -1

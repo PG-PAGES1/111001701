@@ -1,0 +1,153 @@
+
+xinxilan.png
+size: 1188,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Info_Frame/08_ui_score_board
+  rotate: false
+  xy: 2, 583
+  size: 876, 195
+  orig: 895, 253
+  offset: 5, 30
+  index: -1
+Info_Frame/fx_info_bar_03
+  rotate: false
+  xy: 2, 58
+  size: 451, 102
+  orig: 451, 102
+  offset: 0, 0
+  index: -1
+Info_Frame/fx_infobar_01
+  rotate: true
+  xy: 880, 639
+  size: 139, 111
+  orig: 139, 111
+  offset: 0, 0
+  index: -1
+Info_Frame/fx_score_board_shine
+  rotate: false
+  xy: 2, 162
+  size: 749, 153
+  orig: 749, 153
+  offset: 0, 0
+  index: -1
+Info_Frame/ui_arrow
+  rotate: false
+  xy: 753, 248
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+Info_Frame/ui_middle_win
+  rotate: false
+  xy: 409, 2
+  size: 412, 16
+  orig: 412, 16
+  offset: 0, 0
+  index: -1
+Info_Frame/ui_score_board
+  rotate: false
+  xy: 2, 780
+  size: 1008, 226
+  orig: 1015, 260
+  offset: 5, 34
+  index: -1
+Info_Frame/ui_small_win_01
+  rotate: false
+  xy: 2, 450
+  size: 816, 131
+  orig: 816, 131
+  offset: 0, 0
+  index: -1
+Info_Frame/ui_small_win_02
+  rotate: false
+  xy: 2, 317
+  size: 816, 131
+  orig: 816, 131
+  offset: 0, 0
+  index: -1
+Info_Light_Effect/fx_info_bar_02_07
+  rotate: false
+  xy: 2, 4
+  size: 405, 52
+  orig: 405, 52
+  offset: 0, 0
+  index: -1
+Info_Light_Effect/fx_info_bar_02_08
+  rotate: true
+  xy: 820, 176
+  size: 405, 52
+  orig: 405, 52
+  offset: 0, 0
+  index: -1
+Info_Light_Effect/fx_info_bar_02_09
+  rotate: true
+  xy: 874, 176
+  size: 405, 52
+  orig: 405, 52
+  offset: 0, 0
+  index: -1
+Info_Light_Effect/fx_info_bar_02_10
+  rotate: true
+  xy: 1012, 601
+  size: 405, 52
+  orig: 405, 52
+  offset: 0, 0
+  index: -1
+Info_Light_Effect/fx_info_bar_02_11
+  rotate: true
+  xy: 1066, 601
+  size: 405, 52
+  orig: 405, 52
+  offset: 0, 0
+  index: -1
+Light_Effect5/fx_glow
+  rotate: false
+  xy: 455, 20
+  size: 330, 140
+  orig: 330, 140
+  offset: 0, 0
+  index: -1
+fx_info_bar/fx_info_bar_02_01
+  rotate: true
+  xy: 1120, 602
+  size: 404, 50
+  orig: 406, 53
+  offset: 2, 0
+  index: -1
+fx_info_bar/fx_info_bar_02_02
+  rotate: true
+  xy: 928, 195
+  size: 404, 50
+  orig: 406, 53
+  offset: 2, 0
+  index: -1
+fx_info_bar/fx_info_bar_02_03
+  rotate: true
+  xy: 980, 195
+  size: 404, 50
+  orig: 406, 53
+  offset: 2, 0
+  index: -1
+fx_info_bar/fx_info_bar_02_04
+  rotate: true
+  xy: 1032, 195
+  size: 404, 50
+  orig: 406, 53
+  offset: 2, 0
+  index: -1
+fx_info_bar/fx_info_bar_02_05
+  rotate: true
+  xy: 1084, 195
+  size: 404, 50
+  orig: 406, 53
+  offset: 2, 0
+  index: -1
+fx_info_bar/fx_info_bar_02_06
+  rotate: true
+  xy: 1136, 196
+  size: 404, 50
+  orig: 406, 53
+  offset: 2, 0
+  index: -1

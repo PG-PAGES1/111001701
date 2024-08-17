@@ -1,0 +1,188 @@
+
+scatclaw_icon_en.png
+size: 196,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx-shine
+  rotate: false
+  xy: 91, 15
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+fx_frame
+  rotate: false
+  xy: 53, 21
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+fx_star
+  rotate: false
+  xy: 154, 191
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+fx_swipe01
+  rotate: true
+  xy: 131, 180
+  size: 87, 21
+  orig: 87, 21
+  offset: 0, 0
+  index: -1
+fx_swipe01_cn
+  rotate: false
+  xy: 105, 68
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1
+fx_swipe02
+  rotate: false
+  xy: 2, 51
+  size: 87, 21
+  orig: 87, 21
+  offset: 0, 0
+  index: -1
+scatclaw_clawtopfinger2_l
+  rotate: false
+  xy: 190, 52
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+scatclaw_clawtopfinger2_r
+  rotate: true
+  xy: 73, 15
+  size: 4, 13
+  orig: 4, 13
+  offset: 0, 0
+  index: -1
+scatclaw_clawtopfinger_r
+  rotate: false
+  xy: 185, 253
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+scatclawicon_base
+  rotate: false
+  xy: 2, 148
+  size: 127, 119
+  orig: 127, 119
+  offset: 0, 0
+  index: -1
+scatclawicon_claw_l
+  rotate: false
+  xy: 131, 148
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+scatclawicon_claw_r
+  rotate: false
+  xy: 144, 38
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+scatclawicon_clawbase_r
+  rotate: false
+  xy: 154, 222
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+scatclawicon_clawbaseback_l
+  rotate: true
+  xy: 154, 184
+  size: 5, 27
+  orig: 5, 27
+  offset: 0, 0
+  index: -1
+scatclawicon_clawbasefront_l
+  rotate: true
+  xy: 2, 7
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+scatclawicon_eye
+  rotate: false
+  xy: 160, 7
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+scatclawicon_eyeblur
+  rotate: false
+  xy: 175, 222
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+scatclawicon_finger01_l
+  rotate: true
+  xy: 73, 2
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+scatclawicon_finger01_r
+  rotate: false
+  xy: 176, 45
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+scatclawicon_finger02_l
+  rotate: false
+  xy: 163, 162
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+scatclawicon_finger02_r
+  rotate: true
+  xy: 50, 7
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+scatclawicon_text
+  rotate: false
+  xy: 2, 100
+  size: 177, 46
+  orig: 177, 46
+  offset: 0, 0
+  index: -1
+scatclawicon_text_01
+  rotate: true
+  xy: 144, 2
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+scatclawicon_text_02
+  rotate: true
+  xy: 175, 238
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+scatclawicon_text_fx
+  rotate: false
+  xy: 2, 74
+  size: 101, 24
+  orig: 101, 24
+  offset: 0, 0
+  index: -1
+scatclawicon_wire_r
+  rotate: true
+  xy: 2, 25
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,699 @@
+
+images_softoys.png
+size: 962,1414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_botclaw_l
+  rotate: false
+  xy: 898, 844
+  size: 56, 135
+  orig: 56, 135
+  offset: 0, 0
+  index: -1
+claw_botclaw_r
+  rotate: true
+  xy: 743, 529
+  size: 52, 138
+  orig: 52, 138
+  offset: 0, 0
+  index: -1
+frog_arm
+  rotate: true
+  xy: 863, 1191
+  size: 29, 97
+  orig: 29, 97
+  offset: 0, 0
+  index: -1
+frog_blink_bot01
+  rotate: false
+  xy: 286, 502
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+frog_blink_bot02
+  rotate: false
+  xy: 732, 169
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+frog_blink_top01
+  rotate: false
+  xy: 807, 40
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+frog_blink_top02
+  rotate: false
+  xy: 587, 42
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+frog_body
+  rotate: true
+  xy: 620, 827
+  size: 150, 276
+  orig: 150, 276
+  offset: 0, 0
+  index: -1
+frog_eye
+  rotate: true
+  xy: 812, 169
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+frog_feet
+  rotate: true
+  xy: 147, 2
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+frog_hand
+  rotate: false
+  xy: 878, 341
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+frog_leg
+  rotate: false
+  xy: 748, 4
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+frog_mouth
+  rotate: false
+  xy: 282, 30
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+hams_body
+  rotate: false
+  xy: 240, 727
+  size: 194, 314
+  orig: 194, 314
+  offset: 0, 0
+  index: -1
+hams_botwhiskers
+  rotate: true
+  xy: 600, 703
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+hams_ear
+  rotate: false
+  xy: 208, 386
+  size: 133, 114
+  orig: 133, 114
+  offset: 0, 0
+  index: -1
+hams_eye
+  rotate: true
+  xy: 679, 214
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+hams_hand
+  rotate: false
+  xy: 319, 261
+  size: 73, 123
+  orig: 73, 123
+  offset: 0, 0
+  index: -1
+hams_leg
+  rotate: false
+  xy: 392, 482
+  size: 135, 88
+  orig: 135, 88
+  offset: 0, 0
+  index: -1
+hams_snout
+  rotate: false
+  xy: 884, 450
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+hams_teeth
+  rotate: false
+  xy: 897, 259
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+hams_topwhiskers
+  rotate: true
+  xy: 859, 450
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+hamster_tail
+  rotate: true
+  xy: 400, 3
+  size: 51, 128
+  orig: 51, 128
+  offset: 0, 0
+  index: -1
+lion_body
+  rotate: false
+  xy: 2, 705
+  size: 236, 336
+  orig: 236, 336
+  offset: 0, 0
+  index: -1
+lion_crown
+  rotate: false
+  xy: 313, 163
+  size: 115, 96
+  orig: 115, 96
+  offset: 0, 0
+  index: -1
+lion_ear
+  rotate: true
+  xy: 440, 56
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+lion_eye
+  rotate: true
+  xy: 845, 236
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+lion_eyebrow
+  rotate: false
+  xy: 240, 705
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+lion_hand
+  rotate: false
+  xy: 820, 345
+  size: 56, 97
+  orig: 56, 97
+  offset: 0, 0
+  index: -1
+lion_hearteye
+  rotate: false
+  xy: 193, 277
+  size: 124, 107
+  orig: 124, 107
+  offset: 0, 0
+  index: -1
+lion_leg
+  rotate: true
+  xy: 500, 165
+  size: 112, 68
+  orig: 112, 68
+  offset: 0, 0
+  index: -1
+lion_mouth
+  rotate: false
+  xy: 436, 727
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+lion_mouthopen
+  rotate: false
+  xy: 748, 39
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+lion_nose
+  rotate: false
+  xy: 388, 1057
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+lion_snout
+  rotate: true
+  xy: 600, 453
+  size: 78, 130
+  orig: 78, 130
+  offset: 0, 0
+  index: -1
+lion_tail
+  rotate: false
+  xy: 530, 9
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+lion_tailend
+  rotate: false
+  xy: 468, 399
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+lion_teeth
+  rotate: false
+  xy: 625, 9
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+lion_tongue
+  rotate: false
+  xy: 878, 379
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+lion_tophair
+  rotate: true
+  xy: 893, 652
+  size: 173, 67
+  orig: 173, 67
+  offset: 0, 0
+  index: -1
+penguin_body
+  rotate: false
+  xy: 388, 1083
+  size: 199, 329
+  orig: 199, 329
+  offset: 0, 0
+  index: -1
+penguin_botbeak
+  rotate: false
+  xy: 879, 38
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+penguin_eye
+  rotate: false
+  xy: 224, 2
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+penguin_hair
+  rotate: false
+  xy: 193, 163
+  size: 118, 112
+  orig: 118, 112
+  offset: 0, 0
+  index: -1
+penguin_hand
+  rotate: true
+  xy: 600, 533
+  size: 63, 141
+  orig: 63, 141
+  offset: 0, 0
+  index: -1
+penguin_leg
+  rotate: false
+  xy: 862, 292
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+penguin_topbeak
+  rotate: true
+  xy: 870, 62
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+pig_body
+  rotate: false
+  xy: 436, 769
+  size: 182, 312
+  orig: 182, 312
+  offset: 0, 0
+  index: -1
+pig_brow
+  rotate: true
+  xy: 282, 2
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+pig_ear_l
+  rotate: true
+  xy: 600, 598
+  size: 103, 146
+  orig: 103, 146
+  offset: 0, 0
+  index: -1
+pig_ear_r
+  rotate: false
+  xy: 489, 618
+  size: 109, 149
+  orig: 109, 149
+  offset: 0, 0
+  index: -1
+pig_eye
+  rotate: false
+  xy: 813, 2
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+pig_hair
+  rotate: false
+  xy: 748, 583
+  size: 138, 118
+  orig: 138, 118
+  offset: 0, 0
+  index: -1
+pig_hairshadow
+  rotate: true
+  xy: 686, 313
+  size: 138, 38
+  orig: 138, 38
+  offset: 0, 0
+  index: -1
+pig_hand
+  rotate: false
+  xy: 587, 107
+  size: 73, 105
+  orig: 73, 105
+  offset: 0, 0
+  index: -1
+pig_leg
+  rotate: true
+  xy: 529, 446
+  size: 127, 69
+  orig: 127, 69
+  offset: 0, 0
+  index: -1
+pig_mouth
+  rotate: true
+  xy: 870, 105
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+pig_pikaeye
+  rotate: false
+  xy: 726, 350
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+pig_snout
+  rotate: false
+  xy: 601, 346
+  size: 83, 105
+  orig: 83, 105
+  offset: 0, 0
+  index: -1
+pig_tail
+  rotate: false
+  xy: 489, 575
+  size: 109, 41
+  orig: 109, 41
+  offset: 0, 0
+  index: -1
+pig_tailend
+  rotate: true
+  xy: 726, 291
+  size: 57, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1
+pig_tusk
+  rotate: true
+  xy: 924, 268
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+tiger_body
+  rotate: false
+  xy: 2, 389
+  size: 204, 314
+  orig: 204, 314
+  offset: 0, 0
+  index: -1
+tiger_ear
+  rotate: true
+  xy: 662, 110
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+tiger_eye
+  rotate: true
+  xy: 807, 291
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+tiger_hair
+  rotate: false
+  xy: 732, 110
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+tiger_hand_l
+  rotate: false
+  xy: 677, 2
+  size: 69, 106
+  orig: 69, 106
+  offset: 0, 0
+  index: -1
+tiger_hand_r
+  rotate: false
+  xy: 430, 163
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+tiger_leg
+  rotate: true
+  xy: 394, 272
+  size: 121, 73
+  orig: 121, 73
+  offset: 0, 0
+  index: -1
+tiger_mouth
+  rotate: false
+  xy: 360, 505
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+tiger_nose
+  rotate: true
+  xy: 343, 482
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+tiger_smileeye
+  rotate: true
+  xy: 589, 1098
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+tiger_tail
+  rotate: true
+  xy: 318, 70
+  size: 91, 120
+  orig: 91, 120
+  offset: 0, 0
+  index: -1
+unicorn02_backhair
+  rotate: false
+  xy: 620, 703
+  size: 271, 122
+  orig: 271, 122
+  offset: 0, 0
+  index: -1
+unicorn02_body
+  rotate: false
+  xy: 2, 1043
+  size: 384, 369
+  orig: 384, 369
+  offset: 0, 0
+  index: -1
+unicorn02_ear_l
+  rotate: false
+  xy: 732, 444
+  size: 125, 83
+  orig: 125, 83
+  offset: 0, 0
+  index: -1
+unicorn02_ear_r
+  rotate: false
+  xy: 343, 395
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1
+unicorn02_eye_l
+  rotate: false
+  xy: 601, 291
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+unicorn02_eye_r
+  rotate: true
+  xy: 804, 111
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+unicorn02_fronthair
+  rotate: false
+  xy: 589, 1174
+  size: 272, 238
+  orig: 272, 238
+  offset: 0, 0
+  index: -1
+unicorn02_hand_l
+  rotate: false
+  xy: 2, 8
+  size: 143, 56
+  orig: 143, 56
+  offset: 0, 0
+  index: -1
+unicorn02_hand_r
+  rotate: false
+  xy: 469, 279
+  size: 65, 118
+  orig: 65, 118
+  offset: 0, 0
+  index: -1
+unicorn02_leg_l
+  rotate: true
+  xy: 392, 572
+  size: 153, 95
+  orig: 153, 95
+  offset: 0, 0
+  index: -1
+unicorn02_leg_r
+  rotate: true
+  xy: 863, 1222
+  size: 190, 96
+  orig: 190, 96
+  offset: 0, 0
+  index: -1
+unicorn02_mouth
+  rotate: true
+  xy: 870, 157
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+unicorn02_snout
+  rotate: false
+  xy: 193, 63
+  size: 123, 98
+  orig: 123, 98
+  offset: 0, 0
+  index: -1
+unicorn02_wing_l
+  rotate: false
+  xy: 536, 315
+  size: 63, 129
+  orig: 63, 129
+  offset: 0, 0
+  index: -1
+unicorn02_wing_r
+  rotate: false
+  xy: 532, 42
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+unicorn_backhair
+  rotate: true
+  xy: 208, 502
+  size: 201, 76
+  orig: 201, 76
+  offset: 0, 0
+  index: -1
+unicorn_body
+  rotate: false
+  xy: 2, 66
+  size: 189, 321
+  orig: 189, 321
+  offset: 0, 0
+  index: -1
+unicorn_ear
+  rotate: false
+  xy: 570, 214
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+unicorn_eye
+  rotate: false
+  xy: 807, 62
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+unicorn_hair
+  rotate: false
+  xy: 620, 979
+  size: 240, 193
+  orig: 240, 193
+  offset: 0, 0
+  index: -1
+unicorn_hand
+  rotate: true
+  xy: 731, 228
+  size: 61, 112
+  orig: 61, 112
+  offset: 0, 0
+  index: -1
+unicorn_leg
+  rotate: true
+  xy: 888, 514
+  size: 136, 71
+  orig: 136, 71
+  offset: 0, 0
+  index: -1
+unicorn_mouth
+  rotate: false
+  xy: 536, 292
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+unicorn_nose
+  rotate: true
+  xy: 318, 2
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+unicorn_wing_l
+  rotate: false
+  xy: 286, 536
+  size: 104, 189
+  orig: 104, 189
+  offset: 0, 0
+  index: -1
+unicorn_wing_r
+  rotate: false
+  xy: 862, 981
+  size: 98, 191
+  orig: 98, 191
+  offset: 0, 0
+  index: -1

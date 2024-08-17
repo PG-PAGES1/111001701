@@ -1,0 +1,90 @@
+
+zimutuan.png
+size: 1146,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 614, 8
+  size: 179, 188
+  orig: 221, 210
+  offset: 21, 12
+  index: -1
+frog
+  rotate: false
+  xy: 418, 12
+  size: 194, 175
+  orig: 221, 210
+  offset: 14, 16
+  index: -1
+hamster
+  rotate: false
+  xy: 2, 7
+  size: 210, 179
+  orig: 221, 210
+  offset: 9, 3
+  index: -1
+j
+  rotate: false
+  xy: 984, 8
+  size: 151, 190
+  orig: 221, 210
+  offset: 36, 10
+  index: -1
+k
+  rotate: false
+  xy: 995, 204
+  size: 149, 192
+  orig: 221, 210
+  offset: 37, 10
+  index: -1
+lion
+  rotate: true
+  xy: 611, 189
+  size: 207, 188
+  orig: 221, 210
+  offset: 12, 5
+  index: -1
+penguin
+  rotate: false
+  xy: 214, 2
+  size: 202, 185
+  orig: 221, 210
+  offset: 10, 3
+  index: -1
+pig
+  rotate: false
+  xy: 801, 200
+  size: 192, 196
+  orig: 221, 210
+  offset: 25, 2
+  index: -1
+q
+  rotate: false
+  xy: 804, 11
+  size: 178, 187
+  orig: 221, 210
+  offset: 22, 12
+  index: -1
+tiger
+  rotate: true
+  xy: 412, 189
+  size: 207, 197
+  orig: 221, 210
+  offset: 13, 3
+  index: -1
+wild
+  rotate: true
+  xy: 207, 189
+  size: 207, 203
+  orig: 221, 210
+  offset: 7, 3
+  index: -1
+wild2
+  rotate: true
+  xy: 2, 188
+  size: 208, 203
+  orig: 221, 210
+  offset: 7, 3
+  index: -1

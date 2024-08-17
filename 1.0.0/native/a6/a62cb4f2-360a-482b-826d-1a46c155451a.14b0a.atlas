@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 391,647
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold_wild/frog
+  rotate: false
+  xy: 2, 403
+  size: 185, 167
+  orig: 210, 187
+  offset: 13, 9
+  index: -1
+gold_wild/hamster
+  rotate: false
+  xy: 188, 192
+  size: 201, 171
+  orig: 210, 200
+  offset: 8, 3
+  index: -1
+gold_wild/lion
+  rotate: true
+  xy: 2, 13
+  size: 198, 180
+  orig: 210, 200
+  offset: 11, 4
+  index: -1
+gold_wild/penguin
+  rotate: false
+  xy: 189, 365
+  size: 193, 177
+  orig: 210, 200
+  offset: 8, 2
+  index: -1
+gold_wild/pig
+  rotate: false
+  xy: 2, 213
+  size: 184, 188
+  orig: 210, 200
+  offset: 23, 1
+  index: -1
+gold_wild/tiger
+  rotate: false
+  xy: 184, 2
+  size: 197, 188
+  orig: 210, 200
+  offset: 12, 2
+  index: -1
+special/wild_01
+  rotate: false
+  xy: 2, 572
+  size: 207, 73
+  orig: 219, 79
+  offset: 6, 3
+  index: -1
+special1/wild_01
+  rotate: false
+  xy: 211, 544
+  size: 177, 101
+  orig: 183, 105
+  offset: 3, 2
+  index: -1

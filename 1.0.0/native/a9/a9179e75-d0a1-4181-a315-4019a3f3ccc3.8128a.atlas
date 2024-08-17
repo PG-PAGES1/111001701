@@ -1,0 +1,125 @@
+
+pigFly.png
+size: 1241,1241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_boom/fx_impact_radial_01
+  rotate: false
+  xy: 109, 89
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+fx_boom/fx_impact_radial_02
+  rotate: false
+  xy: 956, 160
+  size: 233, 231
+  orig: 233, 231
+  offset: 0, 0
+  index: -1
+fx_boom/fx_impact_radial_03
+  rotate: false
+  xy: 956, 393
+  size: 283, 283
+  orig: 283, 283
+  offset: 0, 0
+  index: -1
+fx_boom/fx_impact_radial_04
+  rotate: false
+  xy: 353, 605
+  size: 303, 301
+  orig: 303, 301
+  offset: 0, 0
+  index: -1
+fx_boom/fx_impact_radial_05
+  rotate: false
+  xy: 353, 908
+  size: 331, 331
+  orig: 331, 331
+  offset: 0, 0
+  index: -1
+fx_boom/fx_impact_radial_06
+  rotate: false
+  xy: 2, 539
+  size: 349, 349
+  orig: 349, 349
+  offset: 0, 0
+  index: -1
+fx_boom/fx_impact_radial_07
+  rotate: false
+  xy: 2, 890
+  size: 349, 349
+  orig: 349, 349
+  offset: 0, 0
+  index: -1
+fx_rainbow
+  rotate: false
+  xy: 2, 20
+  size: 105, 208
+  orig: 110, 214
+  offset: 2, 1
+  index: -1
+pig/unicorn_fly_down_01
+  rotate: true
+  xy: 996, 754
+  size: 230, 243
+  orig: 232, 246
+  offset: 1, 1
+  index: -1
+pig/unicorn_fly_down_02
+  rotate: false
+  xy: 996, 986
+  size: 243, 253
+  orig: 272, 278
+  offset: 15, 13
+  index: -1
+pig/unicorn_fly_down_03
+  rotate: false
+  xy: 665, 116
+  size: 287, 268
+  orig: 304, 284
+  offset: 10, 8
+  index: -1
+pig/unicorn_fly_down_04
+  rotate: false
+  xy: 686, 678
+  size: 292, 266
+  orig: 308, 278
+  offset: 9, 6
+  index: -1
+pig/unicorn_fly_down_05
+  rotate: false
+  xy: 353, 323
+  size: 310, 280
+  orig: 332, 296
+  offset: 11, 7
+  index: -1
+pig/unicorn_fly_down_06
+  rotate: false
+  xy: 323, 30
+  size: 301, 291
+  orig: 322, 304
+  offset: 10, 6
+  index: -1
+pig/unicorn_fly_down_07
+  rotate: false
+  xy: 665, 386
+  size: 289, 290
+  orig: 304, 304
+  offset: 6, 7
+  index: -1
+pig/unicorn_fly_down_08
+  rotate: false
+  xy: 686, 946
+  size: 308, 293
+  orig: 318, 306
+  offset: 0, 4
+  index: -1
+pig/unicorn_fly_down_09
+  rotate: false
+  xy: 2, 230
+  size: 319, 307
+  orig: 338, 320
+  offset: 10, 7
+  index: -1

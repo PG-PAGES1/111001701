@@ -1,0 +1,27 @@
+
+fx_btn.png
+size: 203,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dddda
+  rotate: true
+  xy: 179, 151
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+fx_mouse_hover_04
+  rotate: true
+  xy: 2, 2
+  size: 174, 103
+  orig: 174, 103
+  offset: 0, 0
+  index: -1
+fx_mouse_hover_05
+  rotate: true
+  xy: 107, 15
+  size: 161, 70
+  orig: 161, 70
+  offset: 0, 0
+  index: -1

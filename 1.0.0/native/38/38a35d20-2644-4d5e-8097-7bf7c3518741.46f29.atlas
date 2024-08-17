@@ -1,0 +1,153 @@
+
+gunzhoudongxiao.png
+size: 612,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3rd_Reel_Effect/fx_fast_spin_01_01
+  rotate: false
+  xy: 438, 68
+  size: 86, 68
+  orig: 86, 259
+  offset: 0, 190
+  index: -1
+3rd_Reel_Effect/fx_fast_spin_01_02
+  rotate: true
+  xy: 478, 226
+  size: 86, 132
+  orig: 86, 259
+  offset: 0, 126
+  index: -1
+3rd_Reel_Effect/fx_fast_spin_01_03
+  rotate: false
+  xy: 90, 106
+  size: 86, 206
+  orig: 86, 259
+  offset: 0, 52
+  index: -1
+3rd_Reel_Effect/fx_fast_spin_01_04
+  rotate: false
+  xy: 2, 55
+  size: 86, 257
+  orig: 86, 259
+  offset: 0, 0
+  index: -1
+3rd_Reel_Effect/fx_fast_spin_01_05
+  rotate: false
+  xy: 178, 116
+  size: 86, 196
+  orig: 86, 259
+  offset: 0, 0
+  index: -1
+3rd_Reel_Effect/fx_fast_spin_01_06
+  rotate: true
+  xy: 478, 138
+  size: 86, 100
+  orig: 86, 259
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_01
+  rotate: true
+  xy: 2, 2
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_11
+  rotate: true
+  xy: 2, 2
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_02
+  rotate: true
+  xy: 90, 55
+  size: 49, 170
+  orig: 49, 170
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_12
+  rotate: true
+  xy: 90, 55
+  size: 49, 170
+  orig: 49, 170
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_03
+  rotate: false
+  xy: 266, 142
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_13
+  rotate: false
+  xy: 266, 142
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_04
+  rotate: true
+  xy: 266, 93
+  size: 47, 170
+  orig: 49, 170
+  offset: 2, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_14
+  rotate: true
+  xy: 266, 93
+  size: 47, 170
+  orig: 49, 170
+  offset: 2, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_05
+  rotate: true
+  xy: 262, 48
+  size: 43, 170
+  orig: 47, 170
+  offset: 4, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_06
+  rotate: true
+  xy: 174, 15
+  size: 31, 170
+  orig: 41, 170
+  offset: 10, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_07
+  rotate: false
+  xy: 319, 142
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_08
+  rotate: false
+  xy: 372, 142
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_09
+  rotate: true
+  xy: 434, 13
+  size: 49, 170
+  orig: 49, 170
+  offset: 0, 0
+  index: -1
+684de3c2-34aa-40ba-9f42-09bcedb154a2.38ab5/fx_fast_spin_04_10
+  rotate: false
+  xy: 425, 142
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+Main_Frame/fx_fast_spin_03
+  rotate: false
+  xy: 580, 64
+  size: 30, 160
+  orig: 30, 160
+  offset: 0, 0
+  index: -1

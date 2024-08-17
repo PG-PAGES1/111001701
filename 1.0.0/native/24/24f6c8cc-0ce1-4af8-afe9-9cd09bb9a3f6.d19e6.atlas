@@ -1,0 +1,104 @@
+
+softoy_hamster.png
+size: 179,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_botclaw_l
+  rotate: false
+  xy: 126, 191
+  size: 49, 121
+  orig: 50, 122
+  offset: 1, 1
+  index: -1
+claw_botclaw_r
+  rotate: true
+  xy: 2, 238
+  size: 45, 122
+  orig: 47, 124
+  offset: 0, 1
+  index: -1
+frog_eye
+  rotate: false
+  xy: 126, 314
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+frog_mouth
+  rotate: false
+  xy: 72, 39
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+hams_body
+  rotate: false
+  xy: 2, 366
+  size: 173, 283
+  orig: 175, 283
+  offset: 0, 0
+  index: -1
+hams_botwhiskers
+  rotate: true
+  xy: 105, 9
+  size: 58, 15
+  orig: 58, 15
+  offset: 0, 0
+  index: -1
+hams_ear
+  rotate: false
+  xy: 2, 135
+  size: 118, 101
+  orig: 120, 103
+  offset: 0, 1
+  index: -1
+hams_eye
+  rotate: false
+  xy: 2, 22
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+hams_hand
+  rotate: true
+  xy: 2, 69
+  size: 64, 110
+  orig: 66, 111
+  offset: 1, 1
+  index: -1
+hams_leg
+  rotate: false
+  xy: 2, 285
+  size: 122, 79
+  orig: 122, 79
+  offset: 0, 0
+  index: -1
+hams_snout
+  rotate: true
+  xy: 122, 136
+  size: 53, 55
+  orig: 55, 56
+  offset: 0, 1
+  index: -1
+hams_teeth
+  rotate: true
+  xy: 72, 14
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+hams_topwhiskers
+  rotate: false
+  xy: 2, 2
+  size: 65, 18
+  orig: 69, 21
+  offset: 2, 2
+  index: -1
+hamster_tail
+  rotate: false
+  xy: 122, 19
+  size: 46, 115
+  orig: 46, 115
+  offset: 0, 0
+  index: -1
